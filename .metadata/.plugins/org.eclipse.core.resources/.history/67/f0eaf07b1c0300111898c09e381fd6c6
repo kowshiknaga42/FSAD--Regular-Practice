@@ -1,0 +1,5 @@
+package com.klu.autowire;
+
+public class Student {
+
+}
