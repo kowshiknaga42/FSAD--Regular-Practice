@@ -2,10 +2,18 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\koush\OneDrive\Desktop\fullstack-workbook\FSADEXPERIMENT-9"/>
+			<item value="C:\Users\koush\OneDrive\Desktop\fullstack-workbook\FSADEXPERIMENT-8"/>
+			<item value="C:\Users\koush\Downloads\workbookfsad-main\workbookfsad-main\FSADEXPERIMENT-6"/>
+			<item value="C:\Users\koush\Downloads\workbookfsad-main\workbookfsad-main\FSADEXPERIMENT-7"/>
 			<item value="C:\Users\koush\OneDrive\Desktop\fullstack-workbook\FSADEXPERIMENT3"/>
 			<item value="C:\Users\koush\OneDrive\Desktop\fullstack-workbook\FSADEXPERIMENT2"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="FSADEXPERIMENT-9"/>
+			<item value="FSADEXPERIMENT-8"/>
+			<item value="FSADEXPERIMENT-7"/>
+			<item value="FSADEXPERIMENT-6"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
